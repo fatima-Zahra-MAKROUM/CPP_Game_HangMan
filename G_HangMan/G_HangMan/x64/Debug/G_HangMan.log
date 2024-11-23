@@ -1,0 +1,8 @@
+﻿  GestionnaireMots.cpp
+  G_HangMan.cpp
+C:\Users\fatim\source\repos\G_HangMan\G_HangMan\GestionnaireMots.cpp(25,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Jeu.cpp
+  JeuPendu.cpp
+  Matrice.cpp
+  Génération de code en cours...
+  G_HangMan.vcxproj -> C:\Users\fatim\source\repos\G_HangMan\x64\Debug\G_HangMan.exe
